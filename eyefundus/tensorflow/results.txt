@@ -1,0 +1,30 @@
+Validation Accuracy: 0.93441164
+[[ 21549  23981]
+ [  7684 429570]]
+Validation Accuracy: 0.9335396
+[[ 24404  24043]
+ [  8043 426294]]
+Validation Accuracy: 0.9565831
+[[ 13659   8854]
+ [ 12107 448164]]
+Validation Accuracy: 0.9484573
+[[ 18228  14511]
+ [ 10373 439672]]
+Validation Accuracy: 0.94799954
+[[ 20781  16375]
+ [  8730 436898]]
+Validation Accuracy: 0.9118902
+[[ 30021  25007]
+ [ 17531 410225]]
+Validation Accuracy: 0.91438615
+[[ 32608  27076]
+ [ 14257 408843]]
+Validation Accuracy: 0.9000443
+[[ 28033  26047]
+ [ 22210 406494]]
+Validation Accuracy: 0.9048291
+[[ 25177  26880]
+ [ 19067 411660]]
+Validation Accuracy: 0.93577254
+[[ 27376  15731]
+ [ 15277 424400]]
